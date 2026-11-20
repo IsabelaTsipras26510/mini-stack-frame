@@ -1,6 +1,6 @@
 {
   "name": "mini-stack-frame",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Extracts file, line, column, and function name from one V8 stack frame line.",
   "type": "module",
   "main": "src/index.js",
